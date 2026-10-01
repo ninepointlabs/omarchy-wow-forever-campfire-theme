@@ -1,0 +1,37 @@
+mode = "dark"
+
+# A night camp in the pines. The grounds are the blue-black of the forest
+# canopy (#141C24 in the art); the accent is the campfire's amber, and the
+# foreground is the lamplit canvas of the tents. Blues come from the dusk sky
+# between the trees, magenta from the wildflowers on the left bank, green from
+# the moss in the clearing.
+
+accent = "#E3A04F"
+selection = "#2E3A44"
+muted = "#6B7A85"
+
+background = "#121A21"
+dark_background = "#0D1318"
+darker_background = "#080C10"
+lighter_background = "#1B2731"
+
+foreground = "#E4D8C0"
+dark_foreground = "#7D8890"
+light_foreground = "#CBBFA6"
+bright_foreground = "#F5ECD9"
+
+red = "#C9583A"
+yellow = "#E3A04F"
+orange = "#D47A3A"
+green = "#8FA86A"
+cyan = "#6FA3A8"
+blue = "#5E8DB8"
+magenta = "#9A88C6"
+brown = "#9E6947"
+
+bright_red = "#E07656"
+bright_yellow = "#F0C27A"
+bright_green = "#ABC287"
+bright_cyan = "#8EC0C4"
+bright_blue = "#80A9D0"
+bright_magenta = "#B5A6DA"
